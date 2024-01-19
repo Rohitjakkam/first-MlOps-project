@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HOME/MLops%20Projects/first-MlOps-project/mlruns/0/d28f68e410c84bcc8d764d49ac739761/artifacts
+end_time: 1705656290283
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d28f68e410c84bcc8d764d49ac739761
+run_name: useful-chimp-184
+run_uuid: d28f68e410c84bcc8d764d49ac739761
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705656287848
+status: 3
+tags: []
+user_id: HOME

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HOME/MLops%20Projects/first-MlOps-project/mlruns/0/42508af7d1a349bd9d0e3c34c99b1188/artifacts
+end_time: 1705656259000
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 42508af7d1a349bd9d0e3c34c99b1188
+run_name: worried-gnat-635
+run_uuid: 42508af7d1a349bd9d0e3c34c99b1188
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705656256585
+status: 3
+tags: []
+user_id: HOME

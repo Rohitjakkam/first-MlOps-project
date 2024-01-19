@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HOME/MLops%20Projects/first-MlOps-project/mlruns/0/cd180dd996ad46488e1550a3d693a2ee/artifacts
+end_time: 1705656277432
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cd180dd996ad46488e1550a3d693a2ee
+run_name: omniscient-kite-754
+run_uuid: cd180dd996ad46488e1550a3d693a2ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705656275015
+status: 3
+tags: []
+user_id: HOME
